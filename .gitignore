@@ -1,4 +1,6 @@
 .venv/
 __pycache__/
-movies_for_streamlit_FINAL.csv
+/others/
+*.csv
+
 
