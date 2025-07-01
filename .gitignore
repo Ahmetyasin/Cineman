@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+/others/
+*.csv
+
+
+"embeddings_cache/*.npy" 
